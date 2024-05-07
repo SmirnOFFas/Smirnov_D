@@ -1,0 +1,5 @@
+#ignoring all .dll type files
+.dll
+#ignoring all .log type files
+.log
+
